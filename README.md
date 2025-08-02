@@ -2,6 +2,7 @@
 
 Bonjour, je m'appelle Atharv Dev Singh
 <br>
+<br>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/Atharv_code)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/atharv-dev-singh-621437332/)
 <img align="right" alt="GIF" src="gif.gif" width="300"/>
