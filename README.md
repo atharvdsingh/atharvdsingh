@@ -8,7 +8,7 @@ Bonjour, je m'appelle Atharv Dev Singh
 <img align="right" alt="GIF" src="gif.gif" width="300"/>
 
 - 🎓 MCA student  
-- 🔭 I’m currently working on React.js and Express.js  
+- 🔭 I’m currently working on Next.js and Nest.js  
 - 🌱 I’m currently learning Web Development  
 - 👯 I’m looking to collaborate on any kind of project  
 - 💬 Ask me about anything — I enjoy solving problems and building useful things  
