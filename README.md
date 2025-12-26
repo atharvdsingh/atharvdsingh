@@ -16,7 +16,7 @@ Bonjour, je m'appelle Atharv Dev Singh
 - ⚒️ I love working with JavaScript and exploring new tech  
 - 🚀 I want to grow as a full-stack developer and contribute to real-world projects  
 - 📚 Always open to learning something new and challenging myself  
-- 😊 Let’s connect, collaborate, and build something awesome together  
+
 
 
 
